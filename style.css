@@ -101,3 +101,20 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
+@media (max-width: 768px) {
+  #yogurt {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  #yoga {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  #weather {
+    display: none;
+  }
+}
